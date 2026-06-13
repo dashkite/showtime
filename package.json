@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/showtime",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Lifecycle management helpers for Wayland Web Components",
   "keywords": [],
   "homepage": "https://github.com/dashkite/showtime#readme",
