@@ -1095,8 +1095,8 @@ packages:
   '@dashkite/joy@0.12.40':
     resolution: {integrity: sha512-osq/1Lms2GpR04w7p4moF4dwXNYrrBihppQjDejn4+YN+Ak8sceWbuBo3nfpDS/szJ14/4aG7pkf2d2UwOXd+w==}
 
-  '@dashkite/joy@0.12.43':
-    resolution: {integrity: sha512-GHEKO9OCf8Ofoj/y9Fk6/n3MUmnTrJWoZzbN/fw5dI8tpK9flpOWicrFUYBSSKEcNQdyoZDNp+TZNQv6IrNbQw==}
+  '@dashkite/joy@0.12.44':
+    resolution: {integrity: sha512-uBY7ge53uj7GCxOh7z2U4D75+9AP6+LQjmB/tOdF+lNTTxaKQN+HKQIJKvw8stV8YMIQgv5zYTMWJeD+vhzbgA==}
 
   '@dashkite/joy@0.3.16':
     resolution: {integrity: sha512-dsU0us4j1Pb+zceoBvLbnZ2PbmULkJUtM2vtWLxKmoc1DE4w9SVTiPTe6JWvF0A0vk90ldv+Lc9qEA5x3O+DtQ==}
@@ -4837,7 +4837,7 @@ snapshots:
     dependencies:
       '@dashkite/drn': 0.12.33
       '@dashkite/drn-loader': 0.11.29
-      '@dashkite/joy': 0.12.43
+      '@dashkite/joy': 0.12.44
       '@dashkite/masonry-hooks': 0.12.28
       '@dashkite/zephyr': 0.9.0
       js-yaml: 4.1.1
@@ -4902,7 +4902,7 @@ snapshots:
 
   '@dashkite/joy@0.12.40': {}
 
-  '@dashkite/joy@0.12.43': {}
+  '@dashkite/joy@0.12.44': {}
 
   '@dashkite/joy@0.3.16': {}
 
@@ -4923,7 +4923,7 @@ snapshots:
 
   '@dashkite/masonry-hooks@0.12.28':
     dependencies:
-      '@dashkite/joy': 0.12.43
+      '@dashkite/joy': 0.12.44
       '@dashkite/masonry': 0.21.0
     transitivePeerDependencies:
       - supports-color
